@@ -7,7 +7,7 @@ import re
 INPUT_DIR = "C:/Users/b9220/Desktop/input_m4a"
 OUTPUT_DIR = "C:/Users/b9220/Desktop/output_m4a"
 
-THRESHOLD_DB = -40      # dB
+THRESHOLD_DB = -32      # dB
 MIN_SILENCE = 0.05     # seconds
 PADDING = 0.0         # seconds
 
