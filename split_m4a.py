@@ -8,8 +8,8 @@ INPUT_DIR = Path("C:/Users/b9220/Desktop/input_m4a")
 OUTPUT_DIR = Path("C:/Users/b9220/Desktop/output_m4a")
 
 SILENCE_DB = -28        # 靜音門檻
-SILENCE_DURATION = 1.0 # 靜音需持續多久才算
-MIN_SEGMENT_SEC = 1.0  # 最短輸出段落（避免碎檔）
+SILENCE_DURATION = 0.5 # 靜音需持續多久才算
+MIN_SEGMENT_SEC = 0.5  # 最短輸出段落（避免碎檔）
 # ==============================
 
 
